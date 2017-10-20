@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PingFang.ttc">
+            <string>PingFangTC-Medium</string>
+            <string>PingFangTC-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clipsSubviews="YES" contentMode="scaleToFill" id="kkD-e0-VxB" customClass="RemarkView" customModule="UIPageControlllerCrashed" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="i 禮贈 - 7-ELEVEN 現金抵用券i 禮贈 - 7-ELEVEN 現金抵用券" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BHa-Ja-wIw">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                    <color key="backgroundColor" red="0.8980392157" green="0.0" blue="0.30980392159999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="B9v-yd-V6g"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="PingFangTC-Medium" family="PingFang TC" pointSize="18"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="my1-zL-tmA">
+                    <rect key="frame" x="0.0" y="0.0" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="5iW-Sl-O2O"/>
+                        <constraint firstAttribute="height" constant="44" id="fM8-jG-Am4"/>
+                    </constraints>
+                    <state key="normal" image="btnCloseN"/>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lXI-qJ-cCT">
+                    <rect key="frame" x="0.0" y="623" width="375" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="Gpq-o2-9zG"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="PingFangTC-Medium" family="PingFang TC" pointSize="14"/>
+                    <state key="normal" title="返回">
+                        <color key="titleColor" red="0.24313725489999999" green="0.2274509804" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <state key="highlighted">
+                        <color key="titleColor" red="0.5568627451" green="0.76470588240000004" blue="0.1176470588" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="v3g-UL-5Sr" userLabel="Seperator View">
+                    <rect key="frame" x="8" y="622" width="359" height="1"/>
+                    <color key="backgroundColor" red="0.61568627450000002" green="0.61568627450000002" blue="0.61568627450000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="4sK-gV-sfI"/>
+                    </constraints>
+                </view>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="eWz-Ha-9jo">
+                    <rect key="frame" x="24" y="69" width="327" height="553"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <string key="text">Chances are unless you are very lucky you will go thru many different relationships before you find your special someone. Finding your sole mate is like gambling. In poker and blackjack you may have to play dozens of hands until you get a winning hand, and it is the same with relationships.
+
+During your life you will probably meet some people who seem like they may be the one, or that they are close, but still have the feeling that something else is missing. My advice is that if you are not happy, because something seems like it is missing, then it usually is not right.
+
+Before I found my special someone, I was in a relationship for over 10 years, and I thought everything was great, until I started to seriously consider getting married. Then I noticed that we had so little in common and in reality wanted so many different things out of life and one day we both realized there was much about each of us that we both wanted from someone, but it was not us that we wanted.
+
+Then one day I decided I had enough of trying to go to clubs and bars to meet people. I was sick and tired of trying to find someone in the time it takes to finish a drink. It always seemed the ladies I would meet were all wrong for me, or they seemed great after talking to them for 5 minutes but they seemed to have no interest in me.
+
+Then one day I had an idea, it was not an original idea but I decided to use the internet to try to find the right person for me. So I proceeded to make a myspace profile. On this page I tried to put the real me and not the funny guy trying to be charming that was looking for love at the bar.
+
+And as I would at the poker rooms I went all in, I poured my heart and sole into this. I wrote what I wanted and wrote down who I truly think I am and not who I want to be, and I was rewarded by 1 email responding to my site.
+
+It was amazing; the response I got was like a dream. Imagine you are sitting in a Las Vegas casino playing poker. You are down to your last few dollars, you go all in and you wind up being dealt a Royal Flush, and suddenly the sky is bluer, the grass is greener, and all your worries seem to just fade away.
+
+At first things were a little awkward for the both of us. We decided to hold of on actually meeting until we got to know each other first. We spent a month just talking everyday on the internet. You can really open up to someone and show them the real you and not have to worry about rejection on the internet, after all you are just a faceless ghost, and if things don’t work out you could be sitting next to her on the bus one day without ever knowing it.
+
+The key to finding happiness is realizing you are going to bust more then you are going to get blackjack, but you must keep trying, trying to remember you only need to find the real thing once.</string>
+                    <color key="textColor" red="0.24313725489999999" green="0.2274509804" blue="0.22352941179999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="PingFangTC-Regular" family="PingFang TC" pointSize="12"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="BHa-Ja-wIw" secondAttribute="trailing" id="45w-RS-IZe"/>
+                <constraint firstAttribute="trailing" secondItem="v3g-UL-5Sr" secondAttribute="trailing" constant="8" id="6qx-lm-xks"/>
+                <constraint firstItem="eWz-Ha-9jo" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" constant="24" id="8mg-hd-UUH"/>
+                <constraint firstItem="my1-zL-tmA" firstAttribute="top" secondItem="kkD-e0-VxB" secondAttribute="top" id="AsZ-kW-4aB"/>
+                <constraint firstItem="v3g-UL-5Sr" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" constant="8" id="PjK-4y-FEK"/>
+                <constraint firstItem="lXI-qJ-cCT" firstAttribute="top" secondItem="v3g-UL-5Sr" secondAttribute="bottom" id="RHY-e0-6iv"/>
+                <constraint firstItem="lXI-qJ-cCT" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" id="RKJ-C4-2Wh"/>
+                <constraint firstItem="BHa-Ja-wIw" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" id="RTG-aY-Qay"/>
+                <constraint firstItem="my1-zL-tmA" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" id="USJ-aQ-EV9"/>
+                <constraint firstItem="eWz-Ha-9jo" firstAttribute="top" secondItem="BHa-Ja-wIw" secondAttribute="bottom" constant="25" id="d9Z-dH-EO2"/>
+                <constraint firstAttribute="trailing" secondItem="lXI-qJ-cCT" secondAttribute="trailing" id="eLf-2z-WRg"/>
+                <constraint firstItem="BHa-Ja-wIw" firstAttribute="top" secondItem="kkD-e0-VxB" secondAttribute="top" id="hV5-aK-GVQ"/>
+                <constraint firstItem="v3g-UL-5Sr" firstAttribute="top" secondItem="eWz-Ha-9jo" secondAttribute="bottom" id="lMZ-hn-11b"/>
+                <constraint firstAttribute="bottom" secondItem="lXI-qJ-cCT" secondAttribute="bottom" id="nGz-dp-TYw"/>
+                <constraint firstAttribute="trailing" secondItem="eWz-Ha-9jo" secondAttribute="trailing" constant="24" id="npW-c6-iqI"/>
+                <constraint firstItem="my1-zL-tmA" firstAttribute="leading" secondItem="kkD-e0-VxB" secondAttribute="leading" id="wfx-VV-XOc"/>
+            </constraints>
+            <connections>
+                <outlet property="backButton" destination="lXI-qJ-cCT" id="P2B-LL-ldv"/>
+                <outlet property="closeButton" destination="my1-zL-tmA" id="sLG-ab-bqN"/>
+                <outlet property="textView" destination="eWz-Ha-9jo" id="ri4-q7-UMC"/>
+                <outlet property="titleLabel" destination="BHa-Ja-wIw" id="C8h-rE-Bnb"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="btnCloseN" width="44" height="44"/>
+    </resources>
+</document>
